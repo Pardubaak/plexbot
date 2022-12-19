@@ -9,8 +9,8 @@
 # BOT INFORMATION
 # You must not leave them as blank!
 # ===========================================================================
-Token: "ODcwNTY1MjcyOTA4NjE5Nzg4.GvX82j.5YDshCvPEUg2NAXPuMPlWMPqVv-LJI0wMLPUsM" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
-LicenseKey: "e2d9e65c1dde74cecceb" # Join our discord server and create a ticket to get a license key! https://discord.gg/eRaeJdTsPY
+Token: "" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
+LicenseKey: "" # Join our discord server and create a ticket to get a license key! https://discord.gg/eRaeJdTsPY
 BotName: "Plex Tickets"
 GuildID: "1054002518637695017" # This is your server's ID, Right click on your server icon and copy ID
 OwnerID: "853549998981513236" # Your discord user ID, Right click on your username and copy ID
