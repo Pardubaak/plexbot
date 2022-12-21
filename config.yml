@@ -11,10 +11,10 @@
 # ===========================================================================
 Token: "" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
 LicenseKey: "" # Join our discord server and create a ticket to get a license key! https://discord.gg/eRaeJdTsPY
-BotName: "Plex Tickets"
-GuildID: "1054002518637695017" # This is your server's ID, Right click on your server icon and copy ID
-OwnerID: "853549998981513236" # Your discord user ID, Right click on your username and copy ID
-Prefix: "t!"
+BotName: "Follow Pardubaak"
+GuildID: "" # This is your server's ID, Right click on your server icon and copy ID
+OwnerID: "" # Your discord user ID, Right click on your username and copy ID
+Prefix: ""
 EmbedColors: "#f77b38" # Hex color!
 SlashCommands: true # Enable slash commands?
 MessageCommands: true # Enable message commands?
